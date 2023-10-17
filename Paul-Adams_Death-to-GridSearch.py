@@ -338,7 +338,7 @@ class DeathToGridSearch:
 
         return plt, dict(scorez_dict)
 
-    plt.show
+    plt.show()
 
     def get_models(self):
         '''
